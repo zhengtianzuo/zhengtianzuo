@@ -22,9 +22,12 @@
  </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengtianzuo&theme=onedark)
-
-![zhengtianzuo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhengtianzuo&theme=onedark)
+<table>
+ <tr>
+  <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengtianzuo&theme=onedark" ></center></td>
+  <td ><center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhengtianzuo&theme=onedark" ></center></td>
+ </tr>
+</table>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=zhengtianzuo&theme=onedark)
 
