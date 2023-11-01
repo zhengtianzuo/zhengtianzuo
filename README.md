@@ -11,6 +11,17 @@
 <img src="https://img.shields.io/github/followers/zhengtianzuo.svg?style=social&label=followers&maxAge=2592000" />
 </div>
 
+
+
+|Property|Data|
+|----|----|
+|Language / IDE| |
+|Domain Knownledge| |
+|CI / CD| |
+|Databases| |
+|OS| |
+|Tools & Platform| |
+
 <table>
  <tr>
   <td ><center><img src="https://github-readme-streak-stats.herokuapp.com/?user=zhengtianzuo&theme=onedark" ></center></td>
