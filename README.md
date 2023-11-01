@@ -8,42 +8,25 @@
 <a href="https://blog.csdn.net/zhengtianzuo06/"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
 <a href="https://www.zhihu.com/people/camelstudio"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
 <a href="https://gitee.com/zhengtianzuo"><img src="https://img.shields.io/badge/gitee-gitee-red" /></a>&emsp;
+<img src="https://img.shields.io/github/followers/zhengtianzuo.svg?style=social&label=followers&maxAge=2592000" />
 </div>
 
-![followers](https://img.shields.io/github/followers/zhengtianzuo.svg?style=social&label=followers&maxAge=2592000)
-![license](https://img.shields.io/github/license/zhengtianzuo/zhengtianzuo.svg)
-![forks](https://img.shields.io/github/forks/zhengtianzuo/zhengtianzuo.svg)
-![stars](https://img.shields.io/github/stars/zhengtianzuo/zhengtianzuo.svg)
-![watchers](https://img.shields.io/github/watchers/zhengtianzuo/zhengtianzuo.svg)
+<table>
+ <tr>
+  <td ><center><img src="https://github-readme-streak-stats.herokuapp.com/?user=zhengtianzuo&theme=onedark" ></center></td>
+  <td ><center><img src="https://github-readme-stats.vercel.app/api?username=zhengtianzuo&show_icons=true&theme=onedark" ></center></td>
+ </tr>
+ <tr>
+  <td ><center><img src="https://stats.justsong.cn/api/csdn?id=zhengtianzuo06&theme=onedark" ></center></td>
+  <td ><center><img src="https://stats.justsong.cn/api/zhihu?username=camelstudio&theme=onedark" ></center></td>
+ </tr>
+</table>
 
-![zhengtianzuo's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=zhengtianzuo&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengtianzuo&theme=onedark)
 
-![zhengtianzuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengtianzuo&show_icons=true&theme=maroongold)
+![zhengtianzuo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhengtianzuo&theme=onedark)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengtianzuo)
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=zhengtianzuo&theme=juicyfresh)
-
-
-
-
-
-![zhengtianzuo's GitHub stats](https://stats.justsong.cn/api/github?username=zhengtianzuo&theme=juicyfresh)
-
-
-![zhengtianzuo's zhihu stats](https://stats.justsong.cn/api/zhihu?username=camelstudio&theme=juicyfresh)
-
-
-![zhengtianzuo's csdn stats](https://stats.justsong.cn/api/csdn?id=zhengtianzuo06&theme=juicyfresh)
-
-
-
-
-
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=zhengtianzuo&theme=onedark)
 
 
 
