@@ -1,3 +1,10 @@
+<div align='center'>
+    <img src="./me.jpg"/>
+    <br>
+    <br>
+    <center><font color="#cc8b13" size=6 face="楷体">zhengtianzuo</font></center>
+</div>
+
 <div align="center">
 <a href="http://www.camelstudio.cn/">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=c%2B%2B 全栈桌面/App/服务器开发工程师;擅长于设计客户端和服务器;10年以上代码编写经验;学习新事物;c%2B%2B full-stack+desktop+and+app+developer;experienced+client+server+designer;10%2B+years+of+coding+experience;always+learning+new+things;" alt="Typing SVG"/></a>
