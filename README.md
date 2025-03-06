@@ -1,101 +1,386 @@
-<div align='center'>
-    <img src="./me.jpg"/>
-    <br>
-    <br>
-    <center><font color="#cc8b13" size=6 face="楷体">zhengtianzuo</font></center>
-</div>
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+  .icon_img {
+    width: 24px;
+    height:24px;
+  }
+  p {
+    margin-bottom: 0;
+  }
+</style>
 
-<div align="center">
-<a href="http://www.camelstudio.cn/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=c%2B%2B 全栈桌面/App/服务器开发工程师;擅长于设计客户端和服务器;10年以上代码编写经验;学习新事物;c%2B%2B full-stack+desktop+and+app+developer;experienced+client+server+designer;10%2B+years+of+coding+experience;always+learning+new+things;" alt="Typing SVG"/></a>
-</div>
-
-<div align="center">
-<a href="http://www.camelstudio.cn/"><img src="https://img.shields.io/badge/zhengtianzuo-主页-green" /></a>&emsp;
-<a href="https://blog.csdn.net/zhengtianzuo06/"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
-<a href="https://www.zhihu.com/people/camelstudio"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-<a href="https://gitee.com/zhengtianzuo"><img src="https://img.shields.io/badge/gitee-gitee-red" /></a>&emsp;
-<img src="https://img.shields.io/github/followers/zhengtianzuo.svg?style=social&label=followers&maxAge=2592000" />
-</div>
-
-
-<table>
- <tr>
-    <td><font color="#aa8b13" size=3>Property</font></td>
-    <td><font color="#aa8b13" size=3>Data</font></td>
- </tr>
-
- <tr>
-     <td>Language / IDE</td>
-     <td><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
- </tr>
+<table style="border: 0px;margin: 0 0;">
   <tr>
-<td>CI / CD</td>
-<td><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"> </td>
-</tr>
-
-<tr>
-<td>Design</td>
-<td><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></td>
-</tr>
-
-
-<tr>
-    <td>Databases</td>
-     <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></td>
+    <img src="./img/logo.png"/>
+    <div align="left">
+    <br>
+    <a href="https://zhengtianzuo.com/"><img src="https://img.shields.io/badge/zhengtianzuo-主页-green" /></a>&emsp;
+    <a href="https://blog.csdn.net/zhengtianzuo06/"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/camelstudio"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://juejin.cn/user/4198362625883460"><img src="https://img.shields.io/badge/juejin-掘金-blue" /></a>&emsp;
+    <a href="https://my.oschina.net/zhengtianzuo05"><img src="https://img.shields.io/badge/oschina-开源中国-green" /></a>&emsp;
+    <a href="https://www.cnblogs.com/zhengtianzuo"><img src="https://img.shields.io/badge/cnblogs-博客园-blue" /></a>&emsp;
+    <a href="https://blog.51cto.com/zhengtianzuo"><img src="https://img.shields.io/badge/51cto-51cto-c32136" /></a>&emsp;
+    <a href="https://gitee.com/zhengtianzuo"><img src="https://img.shields.io/badge/gitee-gitee-red" /></a>&emsp;
+    <img src="https://img.shields.io/github/followers/zhengtianzuo.svg?style=social&label=followers&maxAge=2592000" />
+    </div>
+    <br>
+    <font size=4>我是郑天佐，目前专注于</font><font color="#f47523" size=4>远程桌面</font>的开发，主要使用<font color="#f47523" size=4>C++</font>，喜欢研究<font color="#f47523" size=4>高性能</font>与<font color="#f47523" size=4>代码架构</font>。
+    <table>
+      <tr>愿景: 技术分享，共创辉煌</tr><br>
+      <tr>使命: 创造价值，成就客户，服务行业</tr><br>
+      <tr>价值观: 挖掘功能，集大成者，精准服务</tr>
+    </table>
+    <font color="#f47523" size=4>个人产品：</font>
+    <table style="border-collapse: collapse; border: 1px solid #f47523; border-radius: 10px;margin: 0 0;">
+      <thead align="center">
+        <tr>
+          <th>Logo</th>
+          <th>产品</th>
+          <th>Github</th>
+          <th>Gitee</th>
+          <th>简述</th>
+          <th>技术</th>
+        </tr>
+      </thead>
+      <tbody align="left">
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Pangu" target="_blank">
+              <img src="./img/tianzuo.Pangu.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.盘古斧</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Pangu" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+          </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Pangu" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>即时通讯平台</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/> <img src="./img/tianzuo.Kongtong.png" class="icon_img"/> <img src="./img/tianzuo.Qiankun.png" class="icon_img"/> <img src="./img/tianzuo.Zhuiri.png" class="icon_img"/> <img src="./img/boost.png"/> <img src="./img/Qt.png"/> <img src="./img/ffmpeg.png"/> <img src="./img/SDL.png"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Kunlun" target="_blank">
+              <img src="./img/tianzuo.Kunlun.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.昆仑镜</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Kunlun" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+          </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Kunlun" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>本地构建工具</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/> <img src="./img/tianzuo.Kongtong.png" class="icon_img"/> <img src="./img/tianzuo.Qiankun.png" class="icon_img"/> <img src="./img/tianzuo.Zhuiri.png" class="icon_img"/> <img src="./img/boost.png"/> <img src="./img/Qt.png"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Fuxi" target="_blank">
+              <img src="./img/tianzuo.Fuxi.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.伏羲琴</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Fuxi" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+          </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Fuxi" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>开发中</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/> <img src="./img/tianzuo.Kongtong.png" class="icon_img"/> <img src="./img/tianzuo.Qiankun.png" class="icon_img"/> <img src="./img/tianzuo.Zhuiri.png" class="icon_img"/>
+          </th>
+        </tr>
+      </tbody>
+    </table>
   </tr>
 
   <tr>
-     <td>OS</td>
-     <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></td>
+  <font color="#f47523" size=4>个人模块：</font>
+  <table style="border-collapse: collapse; border: 1px solid #f47523; border-radius: 10px;margin: 0 0;">
+    <thead align="center">
+      <tr>
+        <th>Logo</th>
+        <th>模块</th>
+        <th>Github</th>
+        <th>Gitee</th>
+        <th>简述</th>
+        <th>技术</th>
+      </tr>
+    </thead>
+      <tbody align="left">
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Kongtong" target="_blank">
+              <img src="./img/tianzuo.Kongtong.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.崆峒印</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Kongtong" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+          </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Kongtong" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>崩溃检测分析</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Qiankun" target="_blank">
+              <img src="./img/tianzuo.Qiankun.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.乾坤袋</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Qiankun" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+          </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Qiankun" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>NoSql数据库</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Zhuiri" target="_blank">
+              <img src="./img/tianzuo.Zhuiri.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.追日靴</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Zhuiri" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+          </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Zhuiri" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>UDP可靠数据传输</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Hundun" target="_blank">
+              <img src="./img/tianzuo.Hundun.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.混沌钟</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Hundun" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+          </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Hundun" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>软件许可授权</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.LianYao" target="_blank">
+              <img src="./img/tianzuo.LianYao.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.炼妖壶</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.LianYao" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+            </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.LianYao" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>内存池</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Shennong" target="_blank">
+              <img src="./img/tianzuo.Shennong.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.神农鼎</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Shennong" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+            </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Shennong" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>开发中</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/> <img src="./img/ffmpeg.png" class="icon_img"/> <img src="./img/opencv.png" class="icon_img"/>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Linglong" target="_blank">
+              <img src="./img/tianzuo.Linglong.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.玲珑塔</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Linglong" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+            </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Linglong" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>开发中</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/> <img src="./img/ffmpeg.png" class="icon_img"/> 
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Fengtian" target="_blank">
+              <img src="./img/tianzuo.Fengtian.png" class="icon_img"/>
+            </a>
+          </th>
+          <th>
+            <font size=2>天佐.封天印</font>
+          </th>
+          <th>
+            <a href="https://github.com/zhengtianzuo/tianzuo.Fengtian" target="_blank">
+              <img src="./img/com_btnGitHub.svg">
+            </a>
+            </th>
+          <th>
+            <a href="https://gitee.com/zhengtianzuo/tianzuo.Fengtian" target="_blank">
+              <img src="./img/com_btnGitee.svg">
+            </a>
+          </th>
+          <th>
+            <font size=2>开发中</font>
+          </th>
+          <th>
+            <img src="./img/C.png" class="icon_img"/> <img src="./img/C__.png" class="icon_img"/> <img src="./img/SDL.png" class="icon_img"/> 
+          </th>
+        </tr>
+      </tbody>
+    </table>
   </tr>
-
-  <tr>
-     <td>Tools & Platform</td>
-     <td><img src="https://img.shields.io/badge/OpenGL-%235555FF.svg?style=for-the-badge&logo=opengl"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"> </td>
- </tr>
-
-
-
 </table>
 
-<table>
- <tr>
-  <td ><center><img src="https://github-readme-streak-stats.herokuapp.com/?user=zhengtianzuo&theme=onedark" ></center></td>
-  <td ><center><img src="https://github-readme-stats.vercel.app/api?username=zhengtianzuo&show_icons=true&theme=onedark" ></center></td>
- </tr>
- <tr>
-  <td ><center><img src="https://stats.justsong.cn/api/csdn?id=zhengtianzuo06&theme=onedark" ></center></td>
-  <td ><center><img src="https://stats.justsong.cn/api/zhihu?username=camelstudio&theme=onedark" ></center></td>
- </tr>
+<tr>
+<table style="border: 0px;margin: 0 0;">
+    <th align="center" style="text-align: center;">
+    <br><br><br><br><br><br>
+    <img src="./img/1-QQ.png"/><br>
+    加QQ好友
+    </th>
+    <th align="center" style="text-align: center;">
+    <br><br><br><br><br><br>
+    <img src="./img/2-WeChat.png"/><br>
+    加微信好友
+    </th>
+    <th align="center" style="text-align: center;">
+    <img src="./img/5-WeChatMp.png"/><br>
+    关注微信公众号
+    </th>
+    <th align="center" style="text-align: center;">
+    <br><br><br><br><br><br>
+    <img src="./img/4-AliPay.png"/><br>
+    支付宝赞助
+    </th>
+    <th align="center" style="text-align: center;">
+    <br><br><br><br><br><br>
+    <img src="./img/3-WeChatPay.png"/><br>
+    微信赞助
+    </th>
 </table>
-
-<table>
- <tr>
-  <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengtianzuo&theme=onedark" ></center></td>
-  <td ><center><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhengtianzuo&theme=onedark" ></center></td>
- </tr>
-</table>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=zhengtianzuo&theme=onedark)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</tr>
