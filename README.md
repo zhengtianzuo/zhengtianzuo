@@ -1,16 +1,3 @@
-<style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-  .icon_img {
-    width: 24px;
-    height:24px;
-  }
-  p {
-    margin-bottom: 0;
-  }
-</style>
 
 <table style="border: 0px;margin: 0 0;">
   <tr>
