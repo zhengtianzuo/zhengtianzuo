@@ -4,14 +4,14 @@
     <img src="./img/logo.png"/>
     <div align="left">
     <br>
-    <a href="https://zhengtianzuo.com/"><img src="https://img.shields.io/badge/zhengtianzuo-主页-green" /></a>&emsp;
-    <a href="https://blog.csdn.net/zhengtianzuo06/"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/camelstudio"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <a href="https://juejin.cn/user/4198362625883460"><img src="https://img.shields.io/badge/juejin-掘金-blue" /></a>&emsp;
-    <a href="https://my.oschina.net/zhengtianzuo05"><img src="https://img.shields.io/badge/oschina-开源中国-green" /></a>&emsp;
-    <a href="https://www.cnblogs.com/zhengtianzuo"><img src="https://img.shields.io/badge/cnblogs-博客园-blue" /></a>&emsp;
-    <a href="https://blog.51cto.com/zhengtianzuo"><img src="https://img.shields.io/badge/51cto-51cto-c32136" /></a>&emsp;
-    <a href="https://gitee.com/zhengtianzuo"><img src="https://img.shields.io/badge/gitee-gitee-red" /></a>&emsp;
+    <a href="https://zhengtianzuo.com/" target="_blank"><img src="https://img.shields.io/badge/zhengtianzuo-主页-green" /></a>&emsp;
+    <a href="https://blog.csdn.net/zhengtianzuo06/" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/camelstudio" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://juejin.cn/user/4198362625883460" target="_blank"><img src="https://img.shields.io/badge/juejin-掘金-blue" /></a>&emsp;
+    <a href="https://my.oschina.net/zhengtianzuo05" target="_blank"><img src="https://img.shields.io/badge/oschina-开源中国-green" /></a>&emsp;
+    <a href="https://www.cnblogs.com/zhengtianzuo" target="_blank"><img src="https://img.shields.io/badge/cnblogs-博客园-blue" /></a>&emsp;
+    <a href="https://blog.51cto.com/zhengtianzuo" target="_blank"><img src="https://img.shields.io/badge/51cto-51cto-c32136" /></a>&emsp;
+    <a href="https://gitee.com/zhengtianzuo" target="_blank"><img src="https://img.shields.io/badge/gitee-gitee-red" /></a>&emsp;
     <img src="https://img.shields.io/github/followers/zhengtianzuo.svg?style=social&label=followers&maxAge=2592000" />
     </div>
     <br>
