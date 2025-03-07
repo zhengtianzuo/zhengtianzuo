@@ -22,7 +22,7 @@
     <table>
       <tr>愿景: 技术分享，共创辉煌</tr><br>
       <tr>使命: 创造价值，成就客户，服务行业</tr><br>
-      <tr>价值观: 挖掘功能，集大成者，精准服务</tr>
+      <tr>价值观: 挖掘功能，集大成者，精准服务</tr><br>
       <tr>Vision: Technology Sharing, Creating Brilliance Together</tr><br>
       <tr>Mission: Creating Value, Empowering Clients, Serving the Industry</tr><br>
       <tr>Values: Exploring Functionality, Integrating Excellence, Delivering Precision</tr>
